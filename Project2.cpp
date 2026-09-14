@@ -7,12 +7,14 @@ class Signal {
 		int startping;
         string date;
         string status;
+        bool bIsBackup;
 		Signal* nextping;
 		
 		Signal(int startping) {
 			this->startping = startping;
 			this->date = date;
 			this->status = status;
+			bIsBackup = false;
 			
 			nextping = nullptr;
 		}
@@ -56,6 +58,20 @@ class Generation {
     }
 	}
 
+    void DoesBackupWasCreated() {
+		if (head !== nullptr && head->status == "ON") {
+			cout << "Server discovered." << endl;
+			cout << "Server is active." << endl;
+		}
+
+		else {
+			cout << "Server is disabled" << endl;
+			head->bIsBackup= true;
+			cout << "Creating server backup..." << endl;
+			cout << "Backup created successfully." << endl;
+		}
+		
+	}
 
 	}
 	 
