@@ -5,10 +5,15 @@ using namespace std;
 class Signal {
 	public:
 		int startping;
+        string date;
+        string status;
 		Signal* nextping;
 		
 		Signal(int startping) {
 			this->startping = startping;
+			this->date = date;
+			this->status = status;
+			
 			nextping = nullptr;
 		}
 };
@@ -20,9 +25,9 @@ class Generation {
 		int length;
 	
 	public:
-		Generation(int startping) {
+		Generation(int startping, string date, string status) {
 		
-		Signal* newCode = new Signal(startping);
+		Signal* newCode = new Signal(startping, date, status);
 		head = newCode;
 		tail = newCode;
 		length = 24;
@@ -42,13 +47,16 @@ class Generation {
 	}
 	
 	void checktheCycleCorrectness(int startping) {
-	if (length == 24) {
+	if (length == 24 && newCode->status = "ON") {
         cout << "No interruptions throughout the ping process." << endl;
     }
     else {
+		cout << "There is interruption within ping cycle." << endl;
         cout << "There is interruption within ping cycle. System is rebooting. Ping is stopped." << endl;
     }
-}
+	}
+
+
 	}
 	 
 	
