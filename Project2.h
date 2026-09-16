@@ -1,26 +1,35 @@
-class Backup {
-private:
-
-Signal* backupHead;
-Signal* backuptrail;
-int length;
-
+#pragma once
+using namespace std;
+class Signal {
 public:
-Backup() {
-  backupHead = nullptr;
-  backuptrail = nullptr;
-  int length = 24;
+int startping;
+string date;
+string status;
+bool bIsBackup;
+Signal* nextping;
+
+ Signal(int startping, string date, string status);
+
 }
 
-Server(int startping);
+class Backup
+{
 
-~Server();
+private:
+    Signal* backupHead;
+    Signal* backupTail;
+    int length;
 
-void createBackup(Signal* originalHead, Signal* originalLength);
-void printInfo();
-void AddPing(int startping);
+public:
+    Backup();
 
-~Backup();
+    void createBackup(Signal* originalHead, int originalLength);
+
+    void printInfo();
+
+    void AddPing(int startping, std::string date, std::string status);
+
+    ~Backup();
 
 
 }
