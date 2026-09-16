@@ -23,4 +23,36 @@ Backup::Backup() {
 
 }
 
+void Backup::AddPing(int startping, string date, string status)
+{
+    Signal* newSignal = new Signal(startping, date, status);
+
+    newSignal->bIsBackup = true;
+
+    if (backupHead == nullptr)
+    {
+        backupHead = newSignal;
+        backupTail = newSignal;
+    }
+    else
+    {
+        backupTail->nextping = newSignal;
+        backupTail = newSignal;
+    }
+
+    length++;
+}
+
+void Backup::CreateBackup(Signal* originalHead, int originalLength) {
+    Signal* current = originalHead;
+	while (current == nullptr)
+		{
+			AddPing(
+				current->startping,
+				current->date,
+				current->status
+			)
+		}
+}
+
 
