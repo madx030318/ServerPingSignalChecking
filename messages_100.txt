@@ -1,0 +1,1000 @@
+MessageID: 1
+Message: Hello, the server connection is stable. [Message 1]
+Date: 01.01.2026 10:00 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 2
+Message: The quarterly business report is ready for review. [Message 2]
+Date: 01.01.2026 12:07 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 3
+Message: Congratulations, you won a prize. Click the link now. [Message 3]
+Date: 01.01.2026 02:14 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 4
+Message: You are useless and completely incompetent. [Message 4]
+Date: 01.01.2026 04:21 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 5
+Message: If you continue, I will harm you. [Message 5]
+Date: 01.01.2026 06:28 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 6
+Message: Please send the updated client contract. [Message 6]
+Date: 01.01.2026 08:35 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 7
+Message: The backup process completed successfully. [Message 7]
+Date: 01.01.2026 10:42 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 8
+Message: Limited offer! Buy now and receive a huge discount. [Message 8]
+Date: 02.01.2026 12:49 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 9
+Message: Stop acting like an idiot. [Message 9]
+Date: 02.01.2026 02:56 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 10
+Message: You will regret this when I find you. [Message 10]
+Date: 02.01.2026 05:03 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 11
+Message: Hello, the server connection is stable. [Message 11]
+Date: 02.01.2026 07:10 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 12
+Message: The quarterly business report is ready for review. [Message 12]
+Date: 02.01.2026 09:17 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 13
+Message: Congratulations, you won a prize. Click the link now. [Message 13]
+Date: 02.01.2026 11:24 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 14
+Message: You are useless and completely incompetent. [Message 14]
+Date: 02.01.2026 01:31 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 15
+Message: If you continue, I will harm you. [Message 15]
+Date: 02.01.2026 03:38 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 16
+Message: Please send the updated client contract. [Message 16]
+Date: 02.01.2026 05:45 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 17
+Message: The backup process completed successfully. [Message 17]
+Date: 02.01.2026 07:52 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 18
+Message: Limited offer! Buy now and receive a huge discount. [Message 18]
+Date: 02.01.2026 09:59 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 19
+Message: Stop acting like an idiot. [Message 19]
+Date: 03.01.2026 12:06 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 20
+Message: You will regret this when I find you. [Message 20]
+Date: 03.01.2026 02:13 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 21
+Message: Hello, the server connection is stable. [Message 21]
+Date: 03.01.2026 04:20 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 22
+Message: The quarterly business report is ready for review. [Message 22]
+Date: 03.01.2026 06:27 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 23
+Message: Congratulations, you won a prize. Click the link now. [Message 23]
+Date: 03.01.2026 08:34 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 24
+Message: You are useless and completely incompetent. [Message 24]
+Date: 03.01.2026 10:41 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 25
+Message: If you continue, I will harm you. [Message 25]
+Date: 03.01.2026 12:48 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 26
+Message: Please send the updated client contract. [Message 26]
+Date: 03.01.2026 02:55 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 27
+Message: The backup process completed successfully. [Message 27]
+Date: 03.01.2026 05:02 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 28
+Message: Limited offer! Buy now and receive a huge discount. [Message 28]
+Date: 03.01.2026 07:09 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 29
+Message: Stop acting like an idiot. [Message 29]
+Date: 03.01.2026 09:16 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 30
+Message: You will regret this when I find you. [Message 30]
+Date: 03.01.2026 11:23 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 31
+Message: Hello, the server connection is stable. [Message 31]
+Date: 04.01.2026 01:30 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 32
+Message: The quarterly business report is ready for review. [Message 32]
+Date: 04.01.2026 03:37 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 33
+Message: Congratulations, you won a prize. Click the link now. [Message 33]
+Date: 04.01.2026 05:44 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 34
+Message: You are useless and completely incompetent. [Message 34]
+Date: 04.01.2026 07:51 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 35
+Message: If you continue, I will harm you. [Message 35]
+Date: 04.01.2026 09:58 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 36
+Message: Please send the updated client contract. [Message 36]
+Date: 04.01.2026 12:05 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 37
+Message: The backup process completed successfully. [Message 37]
+Date: 04.01.2026 02:12 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 38
+Message: Limited offer! Buy now and receive a huge discount. [Message 38]
+Date: 04.01.2026 04:19 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 39
+Message: Stop acting like an idiot. [Message 39]
+Date: 04.01.2026 06:26 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 40
+Message: You will regret this when I find you. [Message 40]
+Date: 04.01.2026 08:33 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 41
+Message: Hello, the server connection is stable. [Message 41]
+Date: 04.01.2026 10:40 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 42
+Message: The quarterly business report is ready for review. [Message 42]
+Date: 05.01.2026 12:47 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 43
+Message: Congratulations, you won a prize. Click the link now. [Message 43]
+Date: 05.01.2026 02:54 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 44
+Message: You are useless and completely incompetent. [Message 44]
+Date: 05.01.2026 05:01 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 45
+Message: If you continue, I will harm you. [Message 45]
+Date: 05.01.2026 07:08 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 46
+Message: Please send the updated client contract. [Message 46]
+Date: 05.01.2026 09:15 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 47
+Message: The backup process completed successfully. [Message 47]
+Date: 05.01.2026 11:22 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 48
+Message: Limited offer! Buy now and receive a huge discount. [Message 48]
+Date: 05.01.2026 01:29 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 49
+Message: Stop acting like an idiot. [Message 49]
+Date: 05.01.2026 03:36 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 50
+Message: You will regret this when I find you. [Message 50]
+Date: 05.01.2026 05:43 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 51
+Message: Hello, the server connection is stable. [Message 51]
+Date: 05.01.2026 07:50 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 52
+Message: The quarterly business report is ready for review. [Message 52]
+Date: 05.01.2026 09:57 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 53
+Message: Congratulations, you won a prize. Click the link now. [Message 53]
+Date: 06.01.2026 12:04 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 54
+Message: You are useless and completely incompetent. [Message 54]
+Date: 06.01.2026 02:11 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 55
+Message: If you continue, I will harm you. [Message 55]
+Date: 06.01.2026 04:18 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 56
+Message: Please send the updated client contract. [Message 56]
+Date: 06.01.2026 06:25 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 57
+Message: The backup process completed successfully. [Message 57]
+Date: 06.01.2026 08:32 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 58
+Message: Limited offer! Buy now and receive a huge discount. [Message 58]
+Date: 06.01.2026 10:39 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 59
+Message: Stop acting like an idiot. [Message 59]
+Date: 06.01.2026 12:46 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 60
+Message: You will regret this when I find you. [Message 60]
+Date: 06.01.2026 02:53 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 61
+Message: Hello, the server connection is stable. [Message 61]
+Date: 06.01.2026 05:00 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 62
+Message: The quarterly business report is ready for review. [Message 62]
+Date: 06.01.2026 07:07 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 63
+Message: Congratulations, you won a prize. Click the link now. [Message 63]
+Date: 06.01.2026 09:14 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 64
+Message: You are useless and completely incompetent. [Message 64]
+Date: 06.01.2026 11:21 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 65
+Message: If you continue, I will harm you. [Message 65]
+Date: 07.01.2026 01:28 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 66
+Message: Please send the updated client contract. [Message 66]
+Date: 07.01.2026 03:35 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 67
+Message: The backup process completed successfully. [Message 67]
+Date: 07.01.2026 05:42 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 68
+Message: Limited offer! Buy now and receive a huge discount. [Message 68]
+Date: 07.01.2026 07:49 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 69
+Message: Stop acting like an idiot. [Message 69]
+Date: 07.01.2026 09:56 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 70
+Message: You will regret this when I find you. [Message 70]
+Date: 07.01.2026 12:03 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 71
+Message: Hello, the server connection is stable. [Message 71]
+Date: 07.01.2026 02:10 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 72
+Message: The quarterly business report is ready for review. [Message 72]
+Date: 07.01.2026 04:17 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 73
+Message: Congratulations, you won a prize. Click the link now. [Message 73]
+Date: 07.01.2026 06:24 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 74
+Message: You are useless and completely incompetent. [Message 74]
+Date: 07.01.2026 08:31 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 75
+Message: If you continue, I will harm you. [Message 75]
+Date: 07.01.2026 10:38 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 76
+Message: Please send the updated client contract. [Message 76]
+Date: 08.01.2026 12:45 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 77
+Message: The backup process completed successfully. [Message 77]
+Date: 08.01.2026 02:52 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 78
+Message: Limited offer! Buy now and receive a huge discount. [Message 78]
+Date: 08.01.2026 04:59 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 79
+Message: Stop acting like an idiot. [Message 79]
+Date: 08.01.2026 07:06 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 80
+Message: You will regret this when I find you. [Message 80]
+Date: 08.01.2026 09:13 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 81
+Message: Hello, the server connection is stable. [Message 81]
+Date: 08.01.2026 11:20 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 82
+Message: The quarterly business report is ready for review. [Message 82]
+Date: 08.01.2026 01:27 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 83
+Message: Congratulations, you won a prize. Click the link now. [Message 83]
+Date: 08.01.2026 03:34 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 84
+Message: You are useless and completely incompetent. [Message 84]
+Date: 08.01.2026 05:41 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 85
+Message: If you continue, I will harm you. [Message 85]
+Date: 08.01.2026 07:48 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 86
+Message: Please send the updated client contract. [Message 86]
+Date: 08.01.2026 09:55 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 87
+Message: The backup process completed successfully. [Message 87]
+Date: 09.01.2026 12:02 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 88
+Message: Limited offer! Buy now and receive a huge discount. [Message 88]
+Date: 09.01.2026 02:09 AM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 89
+Message: Stop acting like an idiot. [Message 89]
+Date: 09.01.2026 04:16 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 90
+Message: You will regret this when I find you. [Message 90]
+Date: 09.01.2026 06:23 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 91
+Message: Hello, the server connection is stable. [Message 91]
+Date: 09.01.2026 08:30 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 92
+Message: The quarterly business report is ready for review. [Message 92]
+Date: 09.01.2026 10:37 AM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 93
+Message: Congratulations, you won a prize. Click the link now. [Message 93]
+Date: 09.01.2026 12:44 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 94
+Message: You are useless and completely incompetent. [Message 94]
+Date: 09.01.2026 02:51 PM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 95
+Message: If you continue, I will harm you. [Message 95]
+Date: 09.01.2026 04:58 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
+MessageID: 96
+Message: Please send the updated client contract. [Message 96]
+Date: 09.01.2026 07:05 PM
+Status: Active
+Spam: False
+Business: True
+Insults: False
+Threat: False
+HashTag: #BUSINESS
+----------------------------------------
+MessageID: 97
+Message: The backup process completed successfully. [Message 97]
+Date: 09.01.2026 09:12 PM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: False
+HashTag: #NORMAL
+----------------------------------------
+MessageID: 98
+Message: Limited offer! Buy now and receive a huge discount. [Message 98]
+Date: 09.01.2026 11:19 PM
+Status: Active
+Spam: True
+Business: False
+Insults: False
+Threat: False
+HashTag: #SPAM
+----------------------------------------
+MessageID: 99
+Message: Stop acting like an idiot. [Message 99]
+Date: 10.01.2026 01:26 AM
+Status: Active
+Spam: False
+Business: False
+Insults: True
+Threat: False
+HashTag: #INSULT
+----------------------------------------
+MessageID: 100
+Message: You will regret this when I find you. [Message 100]
+Date: 10.01.2026 03:33 AM
+Status: Active
+Spam: False
+Business: False
+Insults: False
+Threat: True
+HashTag: #THREAT
+----------------------------------------
