@@ -44,3 +44,26 @@ MessageLog::~MessageLog() {
   tail = nullptr;
 
 }
+
+ void MessageLog::printMessages() {
+     if (IsPingActive == false)
+     {
+         cout << "Ping is inactive. Messages cannot be processed." << endl;
+         return;
+
+     }
+
+     Message *current = head;
+     while (current != nullptr) {
+         cout << "Message ID: " << current->messageID << endl;
+         cout << "Message: " << current->messageText << endl;
+         cout << "Date: " << current->date << endl;
+
+         current = current->nextMessage;
+     }
+
+ }
+
+void MessageLog::receiveMessage( int messageID, string messageText, string date) {
+
+}
