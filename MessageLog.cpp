@@ -65,5 +65,10 @@ MessageLog::~MessageLog() {
  }
 
 void MessageLog::receiveMessage( int messageID, string messageText, string date) {
+    if (isPingActive == false)
+{
+    cout << "Ping is inactive. Message rejected." << endl;
+    return;
+}
 
 }
